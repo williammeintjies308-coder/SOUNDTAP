@@ -1,18 +1,18 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "name": "SOUNDTAP by WM DIGITALS",
+  "short_name": "SOUNDTAP",
+  "description": "An ad-free, sound-first toddler learning app for parent-child interaction with English, Afrikaans, and isiXhosa support.",
+  "start_url": "./index.html",
   "display": "standalone",
-  "name": "SOUNDTAP",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
   "orientation": "portrait",
-  "scope": "/",
-  "short_name": "soundtap",
-  "start_url": "/",
-  "theme_color": "#ffffff",
-  "description": "A distraction-free, sound-first animal learning app for toddlers and parents. Features authentic animal and local bird calls with instant trilingual switching in English, Afrikaans, and isiXhosa. 100% ad-free and offline-ready.",
-  "lang": "en",
-  "categories": [
-    "games",
-    "kids",
-    "parenting"
+  "icons": [
+    {
+      "src": "1788690974665.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
   ]
 }
